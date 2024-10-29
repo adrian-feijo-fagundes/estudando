@@ -1,8 +1,8 @@
 package main
 
 import (
-	"estudandoGolang/src/exercicios"
 	"fmt"
+	"golang/src/exercicios"
 )
 
 // todo código fica aqui dentro
