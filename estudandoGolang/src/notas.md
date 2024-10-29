@@ -1,0 +1,5 @@
+	- camelCase
+	- PascalCase
+	- Nomeação de Variaveis e pacotes
+	- Clean Code
+	- https://go.dev/doc/modules/layout

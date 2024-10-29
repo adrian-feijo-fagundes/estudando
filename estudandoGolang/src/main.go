@@ -1,7 +1,7 @@
 package main
 
 import (
-	"aprendendoGolang/src/exercicios"
+	"estudandoGolang/src/exercicios"
 	"fmt"
 )
 
