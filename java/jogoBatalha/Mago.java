@@ -1,4 +1,4 @@
-package estudandoJava.jogoBatalha;
+
 
 public class Mago extends Personagem {
 
