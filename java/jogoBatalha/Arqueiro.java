@@ -1,4 +1,3 @@
-package estudandoJava.jogoBatalha;
 
 public class Arqueiro extends  Personagem {
 
